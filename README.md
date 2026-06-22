@@ -2,6 +2,10 @@
 
 ## Software Versions
 
+[V1.4 - RDM2go](https://github.com/Chauvet-Pro/RDM2GO/blob/f5ce702eafdceb770b68d453b2aea999347e3239/firmware/V1.4.zip)
+- Optimizes battery
+- Not applicable to previous product versions
+
 [V1.39 - RDM2go](https://github.com/Chauvet-Pro/RDM2GO/blob/c26f5dd1258a03baa6e4a994380ec8abb31e6f19/firmware/V1.39.zip)
 - Updated software version
 
