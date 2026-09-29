@@ -21,3 +21,9 @@
 
 [V1.2 - RDM2go](https://github.com/Chauvet-Pro/RDM2GO/blob/c26f5dd1258a03baa6e4a994380ec8abb31e6f19/firmware/V1.2.zip)
 - Fixed RDM signal
+
+### How to Update 
+
+The RDM2GO supports direct firmware updates using the Upload03.
+
+For detailed instructions, refer to the User Manual. 
