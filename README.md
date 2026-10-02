@@ -24,6 +24,5 @@
 
 ### How to Update 
 
-The RDM2GO supports direct firmware updates using the Upload03.
-
-For detailed instructions, refer to the User Manual. 
+The RDM2GO supports direct firmware updates using the Upload03. Refer to the Upload03 Instructions for further information.
+. 
