@@ -25,4 +25,3 @@
 ### How to Update 
 
 The RDM2GO supports direct firmware updates using the Upload03. Refer to the [Upload03 Instructions](https://github.com/Chauvet-Pro/RDM2GO/blob/387fecf508ebc81188329958f9ce21fb3e224f43/03_Upload_Rev2.pdf) for further information.
-. 
